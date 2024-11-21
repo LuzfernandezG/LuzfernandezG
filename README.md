@@ -9,6 +9,26 @@
   </p>
 </div>
 
+Tecnologias que uso:
+1-Front-end
+-HTML
+-CSS:
+  Tailwind
+  SASS
+-JavaScript:
+  Vanilla
+  TypeScript
+-Frameworks y Librerías:
+  NodeJS
+  NextJS
+  VUE
+2-Back-end
+-Python:
+  Django
+-Bases de Datos:
+  MySQL
+  HannaDB
+
 <!--
 **LuzfernandezG/LuzfernandezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
