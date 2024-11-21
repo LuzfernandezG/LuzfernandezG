@@ -5,7 +5,7 @@
   </h1>
   <br>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4996&pause=1000&center=true&vCenter=true&lines=Full+Stack+Python+and+JS+Developer;Django+|+React+|+Express+|+Next.js+|+VUE;Always+learning+new+technologies" align='center' alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4996&pause=1000&center=true&vCenter=true&lines=Full+Stack+Python+and+JS+Developer;Django+|+React+|+Express+|+Next.js;Always+learning+new+technologies" align='center' alt="Typing SVG" />
   </p>
 </div>
 
