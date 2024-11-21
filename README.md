@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 <p align="center" >
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4996&pause=1000&center=true&vCenter=true&lines=FullStack+Python - JS+Developer;Django+%7C+React+%7C+Express+%7C+NEXT;Always+keep+learning+new+things" align='center' alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4996&pause=1000&center=true&vCenter=true&lines=FullStack+Python - JS+Developer;Django+%7C+React+%7C+Express+%7C+NextsJS+%7C+VUE;Always+keep+learning+new+things" align='center' alt="Typing SVG" />
 </p>
 
 <div>
