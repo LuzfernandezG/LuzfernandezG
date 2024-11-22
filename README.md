@@ -23,6 +23,7 @@
   - **Node.js** ![NodeJS Icon](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
   - **Next.js** ![NextJS Icon](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
   - **Vue.js** ![VueJS Icon](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+  - **React** ![Reacy Icon](https://img.shields.io/badge/-React.js-4FC08D?logo=react.js&logoColor=white)
 
 ### 2. **Back-end**
 - **Python** ![Python Icon](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
