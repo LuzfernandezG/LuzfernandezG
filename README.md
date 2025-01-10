@@ -1,13 +1,12 @@
-<div>
-  <h1 align="center">
+<div align="center">
+  <h1>
     Hi, I'm Luz Angela Fernandez 
-    
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </h1>
-  <a href="https://portafolio-luzfernandez.netlify.app/">My Portfolio</a>
-  <br>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4996&pause=1000&center=true&vCenter=true&lines=Full+Stack+Python+and+JS+Developer;Django+|+React+|+Express+|+NextJS;Always+learning+new+technologies" align='center' alt="Typing SVG" />
+  <a href="https://portafolio-luzfernandez.netlify.app/" target="_blank">🌐 My Portfolio</a>
+  <br><br>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4996&pause=1000&center=true&vCenter=true&lines=Full+Stack+Python+and+JS+Developer;Django+|+React+|+Express+|+NextJS;Always+learning+new+technologies" alt="Typing SVG" />
   </p>
 </div>
 
